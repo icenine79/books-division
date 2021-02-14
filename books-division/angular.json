@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "books-division"
+    }
+  },
+  "defaultProject": "books-division",
+  "cli": {
+    "analytics": "6bdcaa2c-0257-430c-9c97-0e02b88717ff"
+  }
 }
